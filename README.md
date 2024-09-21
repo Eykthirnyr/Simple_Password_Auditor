@@ -68,14 +68,3 @@ The application automatically installs any missing dependencies.
 3. In the GUI window, select the input file (a tab-separated `.txt` file).
 4. The script will process the file and display the progress.
 5. Once completed, you can view the result file or the folder containing the result.
-
-### Example
-
-To generate your own test file, you can create a text file in the following format:
-
-
-After running the tool, you will receive an output file called `results.txt` containing the strength ratings for each password.
-
-### License
-
-This project is licensed under the terms of the AGPL v3.
