@@ -19,7 +19,7 @@ The input file should be a **tab-separated text file** (`.txt`), where each line
 - **Username**: The first field is the username.
 - **Password**: The second field is the password.
 
-Each username and password should be separated by a tab (`\t`) character. For example:
+Each username and password should be separated by a tab (`\t`).
 
 
 ### Features
