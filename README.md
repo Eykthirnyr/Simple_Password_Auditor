@@ -44,7 +44,7 @@ Each username and password should be separated by a tab (`\t`).
 5. **Result File and Folder Access**:
    - After processing, the user is presented with two buttons: one to open the result file (`results.txt`), and another to open the folder containing the file.
 
-### Output
+## Output
 
 The results of the password strength analysis are written to a file called `results.txt`. Each entry in the file will follow the structure:
 
@@ -56,7 +56,7 @@ The password strength is evaluated using the following scoring system:
 - **3**: Strong
 - **4**: Very strong
 
-### Installation & Requirements
+## Installation & Requirements
 
 This application is built using Python and requires the following libraries:
 - `zxcvbn`
@@ -64,7 +64,7 @@ This application is built using Python and requires the following libraries:
 
 The application automatically installs any missing dependencies.
 
-### Usage
+## Usage
 
 1. Clone or download this repository.
 2. Run the script `password_strength_tester.py`.
