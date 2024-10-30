@@ -25,7 +25,7 @@ Each username and password should be separated by a tab (`\t`).
 
 ![GUI](Screenshot_1.png)
 
-### Features
+## Features
 
 1. **Dependency Handling**: 
    - The application automatically checks for the presence of the required library `zxcvbn`. If it is not installed, it will be installed automatically.
