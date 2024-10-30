@@ -21,6 +21,9 @@ The input file should be a **tab-separated text file** (`.txt`), where each line
 
 Each username and password should be separated by a tab (`\t`).
 
+## Screenshot - Application GUI
+
+![GUI](Screenshot_1.png)
 
 ### Features
 
